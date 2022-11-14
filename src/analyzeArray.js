@@ -49,5 +49,3 @@ export function analyzeArray(arr){
     length:length
   } 
 }
-let arr = [51,63,32,23,31,55]
-analyzeArray(arr)

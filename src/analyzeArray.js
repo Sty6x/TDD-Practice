@@ -23,8 +23,6 @@ function merge(a, b, arr) {
   }
   return arr
 }
-const list = [4, 2, 10, 5]
-let x = 0
 
 function mergeSort(arr) {
   if (arr.length > 1) {
